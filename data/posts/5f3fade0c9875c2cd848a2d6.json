@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "data": {
+    "_id": "5f3fade0c9875c2cd848a2d6",
+    "title": "英语语法的第一个坑if从句，你掉进去了吗？（二）",
+    "content": "<p><b>上一篇我们说了if条件句是触发主线动作的一个开关，即满足了条件就触发动作，没满足就不触发，条件本身是个客观存在，没有时间属性，所以用一般现在时。</b><br/></p><p><u>接下来就要开始复杂起来了：因为有时候if条件句也可以加上时间属性。</u></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国学生学习时态有个很大的<u>误区</u>，就是会把语法书当作公式来背，比如“看到already就要用现在完成时”，“since前面是完成时后面是过去时”。这样无脑背诵对于初学者来说确实是最快的方法，<b>但是长远来说只会增加记忆负担，没有任何好处</b>。因为<b>理解时态绝对不能脱离语境和表达者的意图</b>。说到底，<b>时态完全是为了表达意思才存在的，而不是机械遵循某个死板的语法规则</b>。</p><p>比如这句话： if you have read this book, you can write a report about it. 如果你已经看过这本书了，可以写一篇报告。这里if后面也是条件从句，但说话的人为它赋予了时态（现在完成时），因为他要<u>强调</u>的是“书已经看完了”这个条件。</p><p>可以把if you have read this book与if you read this book（现在时）做个对比，这两句话强调了不同的重点，第一句强调的是“看书这个动作已经完成了”，后一句强调的是看书这件事本身，而并没有说明什么时候看的。If you read this book,you will find it very interesting. <b>看这本书是条件，触发的动作是&#34;觉得书有趣&#34;。只要看了，就会觉得有趣</b>。这是这句话的根本逻辑，除此之外不包含其他的意思。</p><p>再比如：if you liked the food you had in my house last time, here’s some more for you. 如果你喜欢上次在我家吃的食物，这里还有更多给你吃。如果你是死记硬背时态公式，现在应该已经开始头晕了。但如果你将自己代入说话人的角色理解时态，就一目了然了。这里说话人强调的是<b><u>上次</u></b>你在我家吃东西然后觉得很喜欢，所以like这个动作是过去发生的，用一般过去时。</p><p>再比如:if you were also watching this channel this time yesterday, you would see the new Pepsi commercial. 如果你昨天这个时候也在看这个频道，你会看到新的百事可乐广告。这里的if条件强调的是“昨天这个时候<u>正在</u>看这个频道”。</p><p><b>我说了这么多，只是想说明一个道理：时态存在的价值是为了让句子意思产生微妙的差别，让说话的人强调不同的重点。语法书是语言学家根据大多数人的表达习惯总结出来的规律，并不是凭空产生指导大家怎么说话的金科玉律，所以在学习时态的时候一定要把自己带入对话的语境。如果有人告诉你，if后面只能跟什么时态，那未免过于武断了，到底应该用什么时态应该取决于上下文，也就是表达者到底想要表达什么意思。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>欢迎关注我的公众号英语小黑课，第一时间获得最新文章推送。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://picb.zhimg.com/v2-dcdbec838ea10093eb4b27f51a63789c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"225\" data-rawheight=\"225\" class=\"content_image\" width=\"225\"/></figure><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9b75e0906ee67eb8828a43afb7834b4e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-9b75e0906ee67eb8828a43afb7834b4e_r.jpg\"/></figure><p></p>",
+    "excerpt": "上一篇我们说了if条件句是触发主线动作的一个开关，即满足了条件就触发动作，没满足就不触发，条件本身是个客观存在，没有时间属性，所以用一般现在时。 接下来就要开始复杂起来了：因为有时候if条件句也可以加上时间属性。 中国学生学习时态有个很大的 误区…",
+    "isHTML": true,
+    "author": {
+      "_id": "5f3e86d62c56ee13bb83095f",
+      "email": "Telly.Hoeger@billy.biz",
+      "nickName": "Elwyn.Skiles",
+      "description": "Configurable multimedia task-force",
+      "avatar": {
+        "_id": "5f3e3a12c305b1070f455201",
+        "url": "http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/5f3e3a12c305b1070f455201.jpg"
+      }
+    },
+    "column": "5f3e86d62c56ee13bb83096a",
+    "image": {
+      "_id": "5f33a5bb16aa5bb1ac376968",
+      "url": "http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/5f33a5bb16aa5bb1ac376968.png"
+    },
+    "__v": 0,
+    "updatedAt": "2020-08-21T11:20:00.944Z",
+    "createdAt": "2020-08-21 19:20:00"
+  },
+  "msg": "请求成功"
+}

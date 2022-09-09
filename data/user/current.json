@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "data": {
+        "_id": "5f2918ed59d0b03366c0f0ad",
+        "email": "111@test.com",
+        "nickName": "vikingee",
+        "column": "5f4db92abb821789a5490ed3",
+        "description": "还行1",
+        "avatar": {
+            "_id": "62cd4753fc0f930997b04449",
+            "url": "http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/62cd4753fc0f930997b04449.jpg"
+        }
+    },
+    "msg": "请求成功"
+}

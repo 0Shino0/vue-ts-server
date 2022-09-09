@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "data": {
+    "_id": "5f4db92abb821789a5490ed3",
+    "title": "帅气专栏11-废品回收",
+    "description": "这是Akira的专栏",
+    "author": "5f2918ed59d0b03366c0f0ad",
+    "featured": true,
+    "avatar": {
+      "_id": "6183abd6fc0f930997b02815",
+      "url": "http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/6183abd6fc0f930997b02815.jpg",
+      "filename": "0.jpg",
+      "extname": ".jpg",
+      "__v": 0,
+      "createdAt": "2021-11-04T09:45:58.585Z"
+    },
+    "createdAt": "2020-08-20T14:21:10.709Z"
+  },
+  "msg": "请求成功"
+}
